@@ -4,6 +4,8 @@
 
 Utilizamos as bibliotecas de análise e estruturas de dado [pandas](https://pandas.pydata.org/) e [numpy](https://numpy.org/), ferramenta de predição [sklearn](https://scikit-learn.org/stable/) - com o algoritmo [KNN](https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm). Além disso, a biblioteca [seaborn](https://seaborn.pydata.org/) para alguns plots básicos para avaliação do resultado.
 
+O objetivo principal não era efetivamente a qualidade do resultado, mas ilustrar o uso da plataforma Kaggle e o uso do algoritmo KNN. 
+
 ## Requistos
 
 Para rodar o código você precisará dos seguintes requisitos:  
